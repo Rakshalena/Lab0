@@ -1,0 +1,31 @@
+1)
+1.1 Имя - 10110SHELL
+1.2 gedit& - Выполнить процесс в фоновом режиме
+
+2)
+2.1 Команда пользователя sleep (1) - delay for a specified amount of time
+Стандартная библиотечная функция sleep (3) - sleep for the specified number of seconds
+2.2 get_current_dir_name (2) - get current working directory
+get_current_dir_name (3) - get current working directory
+getcwd (2)           - get current working directory
+getcwd (3)           - get current working directory
+getwd (3)            - get current working directory
+mkdir (1)            - make directories
+2.3 cat - concatenate files and print on the standard output
+clear - clear the terminal screen
+cmp - compare two files byte by byte
+sort - sort lines of text files
+wc - print newline, word, and byte counts for each file
+2.4 open, openat, creat - open and possibly create a file
+read - read from a file descriptor
+write — send a message to another user
+close - close a file descriptor
+time - get time in seconds
+ctime - transform date and time to broken-down time or ASCII
+
+3)
+3.1 user@1090f4f95152:/projects/Lab1$ cd ../ - переход к родительскому каталогу
+user@1090f4f95152:/projects$ cd ../ - переход к родительскому каталогу
+user@1090f4f95152:/$ cd bin - переход к bin
+user@1090f4f95152:/bin$ - искомый каталог
+3.2 Дерево расположено в tree.txt
